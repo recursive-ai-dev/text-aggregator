@@ -1,4 +1,4 @@
-# Text Aggregator v4.0 — Cryptographically Attested Document Processor
+# Text Aggregator — Cryptographically Attested Document Processor
 
 ## Abstract
 
