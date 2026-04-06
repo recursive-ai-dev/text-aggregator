@@ -83,9 +83,6 @@ $$P(\text{boundary alignment identical}) = 1 - 2^{-13}$$
 
 ```bash
 # Requires Python 3.9+
-pip install file-aggregator
-
-# Or from source
 git clone https://github.com/yourorg/file-aggregator.git
 cd file-aggregator
 pip install -e .
